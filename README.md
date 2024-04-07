@@ -24,9 +24,10 @@
     시스템 환경 변수 편집 > 고급설정 > 환경변수 > 시스템변수 > path에 `C:\flutter\bin`추가
 
 4.  android studio settings
-    4-1. file > settings > plugins 에서 flutter, dart install
-    4-2. flutter sdk 위치 설정 : file > new > new flutter project flutter sdk
-    `C:\flutter platforms: aos.ios.web`
+
+- file > settings > plugins 에서 flutter, dart install
+- flutter sdk 위치 설정 : file > new > new flutter project flutter sdk
+  `C:\flutter platforms: aos.ios.web`
 
 ## Git Settings
 
@@ -39,9 +40,10 @@
 ## Project Folder Structure
 
 1. 폴더 구조를 작성해주세요.
-   1-1. vscode가 아닌 다른 ide 사용할 경우 Project Tree Genertator
-   <https://woochanleee.github.io/>
-   1-2. vscode project-tree extension 사용 : `ctrl + shipt + p` 후 project-tree 검색시 readme에 알아서 추가됨
+
+- vscode가 아닌 다른 ide 사용할 경우 Project Tree Genertator
+  <https://woochanleee.github.io/>
+- vscode project-tree extension 사용 : `ctrl + shipt + p` 후 project-tree 검색시 readme에 알아서 추가됨
 
 ```
 todaymeal2.0
